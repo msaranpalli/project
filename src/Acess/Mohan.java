@@ -17,6 +17,7 @@ public class Mohan extends Demo1 {
         System.out.println(c);
          System.out.println("ooo");
         System.out.println("ppppp");
+        system.out.println("mohana");
     }
   
     
